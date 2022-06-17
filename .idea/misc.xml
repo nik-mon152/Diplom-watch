@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable-v24/buttun_style.xml" value="0.167" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable-v24/custom_input.xml" value="0.167" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable-v24/ic_baseline_alternate_email.xml" value="0.167" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable-v24/ic_baseline_lock.xml" value="0.167" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/activity.xml" value="1.1566265060240963" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/activity_list.xml" value="0.6" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/activity_login.xml" value="0.8022284122562674" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/activity_main.xml" value="1.5" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/fragment_notification.xml" value="1.5" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/layout/notification_view_layout.xml" value="1.2" />
+        <entry key="..\:/Users/Limonchik/AndroidStudioProjects/MyCarwatch/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
